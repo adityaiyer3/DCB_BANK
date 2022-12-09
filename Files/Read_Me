@@ -1,1 +1,9 @@
 DCB Bank Round 3 Case Study
+
+File Details are as follows:
+Logit_Basic.R : Contains the model of Priliminary Regression
+Logit_Backward.R : Contains Regression Model obtained through Backward elimination Process
+Final_Logit_Model.R : Final Regression model obtained from bootstrap method and other transforms and Data Wrangling
+Test_Predict.R : The Prediction for the Test data set
+Test.xlsx : Excel file containing the predictions
+CSV Folder : The Train and Test csv can be found in the mentioned folder
